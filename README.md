@@ -1,5 +1,4 @@
 Projeto acadêmico de Computação Concorrente e Paralela, Universidade UNIFOR.
-IDE:Eclipse 
 O projeto compara o desempenho de três abordagens de contagem de palavras em textos:
 
 * execução serial;
@@ -9,3 +8,4 @@ O projeto compara o desempenho de três abordagens de contagem de palavras em te
 ## Como Usar
 Defina a palavra que quer buscar
 Em Main.java, troque o valor de WORD: ...String WORD = "the";(mude para a palavra que quiser)
+>IDE:Eclipse
